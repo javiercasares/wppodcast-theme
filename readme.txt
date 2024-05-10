@@ -1,4 +1,4 @@
-=== WPpodcast ===
+=== WPpodcast theme ===
 Contributors: javiercasares, luciaalcantara, josepmoran, glycymeris
 Requires at least: 6.5
 Tested up to: 6.5.3
@@ -11,6 +11,10 @@ License URI: https://spdx.org/licenses/GPL-2.0-or-later.html
 A Powder child theme for the WPpodcast sites.
 
 == Changelog ==
+
+= 1.1.0 =
+
+* Logos and other changes
 
 = 1.0.0 =
 
